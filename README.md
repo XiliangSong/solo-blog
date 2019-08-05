@@ -10,6 +10,11 @@
 
 ### 最新
 
+* [冯学荣翻译：李鸿章伊藤博文日本马关谈判对话实录 【转】](http://xiliang.ml:8080/articles/2019/08/05/1564967769355.html)
+* [道以无心度有情，一切方便是修真！ 【转】](http://xiliang.ml:8080/articles/2019/08/05/1564967543187.html)
+* [机器学习法则：（谷歌）机器学习工程最佳实践 【转】](http://xiliang.ml:8080/articles/2019/08/05/1564967346799.html)
+* [独家 | 你的神经网络不起作用的37个理由（附链接）【转】](http://xiliang.ml:8080/articles/2019/08/05/1564967236202.html)
+* [机器学习法则：（谷歌）机器学习工程最佳实践 【转】](http://xiliang.ml:8080/articles/2019/08/05/1564966749199.html)
 * [推荐几个免费漂亮的开源个人网站系统](http://xiliang.ml:8080/articles/2019/08/04/1564908213769.html)
 * [个人博客网站常用的6个免费开源博客程序CMS系统](http://xiliang.ml:8080/articles/2019/08/04/1564908052933.html)
 * [推荐几款优秀的开源博客系统](http://xiliang.ml:8080/articles/2019/08/04/1564907987882.html)
@@ -21,7 +26,7 @@
 * [Debian 9 默认安装MariaDB  修改成 MySQL原生认证](http://xiliang.ml:8080/articles/2019/08/04/1564906392799.html)
 * [快速重置MariaDB或是MySQL的root密码](http://xiliang.ml:8080/articles/2019/08/04/1564905934651.html)
 * [Nginx 简易教程 【转自 静默虚空的博客】](http://xiliang.ml:8080/articles/2019/08/04/1564905769436.html)
-* [转 香港问题的来龙去脉 来自 ](http://xiliang.ml:8080/articles/2019/08/04/1564905517377.html)
+* [ 香港问题的来龙去脉 【转】](http://xiliang.ml:8080/articles/2019/08/04/1564905517377.html)
 
 
 
