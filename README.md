@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://xiliang.ml:8080/my-github-repos)
 * [冯学荣翻译：李鸿章伊藤博文日本马关谈判对话实录 【转】](http://xiliang.ml:8080/articles/2019/08/05/1564967769355.html)
 * [道以无心度有情，一切方便是修真！ 【转】](http://xiliang.ml:8080/articles/2019/08/05/1564967543187.html)
 * [机器学习法则：（谷歌）机器学习工程最佳实践 【转】](http://xiliang.ml:8080/articles/2019/08/05/1564967346799.html)
